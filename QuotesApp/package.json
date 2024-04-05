@@ -1,0 +1,15 @@
+{
+  "name": "quotes-app",
+  "version": "1.0.0",
+  "description": "Get Quotations",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kushagra Kapoor",
+  "license": "ISC",
+  "dependencies": {
+    "quotes-goodreads": "^0.0.8"
+  }
+}
