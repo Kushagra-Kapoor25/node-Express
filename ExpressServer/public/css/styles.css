@@ -1,0 +1,14 @@
+body {
+  background-color: black;
+  color: white;
+  margin: 5%;
+}
+
+input {
+  display: block;
+  margin-bottom: 3%;
+}
+select {
+  display: block;
+  margin-bottom: 3%;
+}
