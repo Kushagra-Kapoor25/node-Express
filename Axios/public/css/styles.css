@@ -1,0 +1,12 @@
+body {
+  background-color: black;
+  color: white;
+  margin: 2rem;
+}
+
+label {
+  font-weight: bold;
+}
+input {
+  width: 50px;
+}
